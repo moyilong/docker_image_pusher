@@ -40,6 +40,7 @@ reseaucerta/git-http-server:4.3
 telegraf
 tiomny/docker-sstp-client
 vaultwarden/server:testing-alpine
+vaultwarden/server
 vladgh/minidlna
 yidadaa/chatgpt-next-web
 zerotier/zerotier:latest
