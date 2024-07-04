@@ -21,9 +21,11 @@ ghcr.io/moyilong/docker-sstp-client
 ghcr.io/pleisto/yuren-7b/yuren-7b:latest
 gitea/act_runner:latest
 gitea/gitea:1.22.0
+gitea/gitea
 grafana/grafana:latest-ubuntu
 heartexlabs/label-studio:latest
 influxdb:2
+influxdb
 irinesistiana/mosdns
 itzg/mc-router
 itzg/minecraft-server:java21-graalvm
@@ -31,6 +33,7 @@ itzg/minecraft-server:java8-graalvm-ce
 jeessy/ddns-go
 networkboot/dhcpd
 nextcloud:28
+nextcloud
 outlinewiki/outline
 probezy/cpolar
 qdtoday/qd:latest
