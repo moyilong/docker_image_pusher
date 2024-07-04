@@ -4,7 +4,6 @@ postgres:16
 redis
 m.daocloud.io/docker.io/mysql:8-oracle
 ccr.ccs.tencentyun.com/zephyruser/dragon-engine:latest
-registry.cn-hangzhou.aliyuncs.com/zephyruse/sliverbox:latest
 registry:2
 minio/minio
 
